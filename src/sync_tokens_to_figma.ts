@@ -12,7 +12,7 @@ async function main() {
   }
   const fileKey = process.env.FILE_KEY
 
-  const TOKENS_DIR = 'tokens-data'
+  const TOKENS_DIR = 'tokens'
   const tokensFiles = fs.readdirSync(TOKENS_DIR).map((file: string) => `${TOKENS_DIR}/${file}`)
 
   const tokensByFile = readJsonFiles(tokensFiles)
