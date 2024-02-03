@@ -1,0 +1,44 @@
+{
+  "disclosure": {
+    "duration": {
+      "maxHeight": {
+        "default": {
+          "value": "{timing.duration.200}",
+          "type": "duration"
+        }
+      },
+      "opacity": {
+        "default": {
+          "value": "{timing.duration.200}",
+          "type": "duration"
+        }
+      },
+      "transform": {
+        "default": {
+          "value": "{timing.duration.200}",
+          "type": "duration"
+        }
+      }
+    },
+    "easing": {
+      "maxHeight": {
+        "default": {
+          "value": "{timing.function.ease}",
+          "type": "cubicBezier"
+        }
+      },
+      "opacity": {
+        "default": {
+          "value": "{timing.function.easeInOut}",
+          "type": "cubicBezier"
+        }
+      },
+      "transform": {
+        "default": {
+          "value": "{timing.function.easeInOut}",
+          "type": "cubicBezier"
+        }
+      }
+    }
+  }
+}
