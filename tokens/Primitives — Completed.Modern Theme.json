@@ -295,7 +295,9 @@
             "scopes": [
               "ALL_FILLS"
             ],
-            "codeSyntax": {}
+            "codeSyntax": {
+              "WEB": "WEB_RADISH_VAR"
+            }
           }
         }
       },
