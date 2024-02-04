@@ -293,7 +293,7 @@
           "com.figma": {
             "hiddenFromPublishing": false,
             "scopes": [
-              "ALL_SCOPES"
+              "ALL_FILLS"
             ],
             "codeSyntax": {}
           }
